@@ -13,6 +13,7 @@ Like every other week, I really want to make video games, and this was really fu
 # Development Environment
 
 This was made just in UE5, if making the pixel art you could use Photoshop, I also used youtube to learn.
+Artwork is Sunny Land asset pack by Ansimuz-it is listed in the description in the Cobra Code video.
 
 We used flipbooks, blueprints, and furthur into blueprints about character movement, tilesheets, props, using the camera, and etc.
 
